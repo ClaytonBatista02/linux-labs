@@ -56,4 +56,7 @@ Para visualizar de forma reversa.
 
 - `-l` mostra permissões
 - `-a` mostra arquivos ocultos
+- `-i` mostra o número de inode
+- `-o` mostra permissões sem mostrar o grupo
+- `-r` mostra de Z-A
 - É um dos comandos mais utilizados no Linux.
