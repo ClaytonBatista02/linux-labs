@@ -16,7 +16,7 @@ Lista o conteúdo do diretório.
 ls -l
 ```
 
-Mostra detalhes dos arquivos.
+Mostra detalhes dos arquivos.  
 Permissões do arquivo -- Número de Links -- Proprietário -- Usuário -- Tamanho -- Data/Hora -- Nome do Arquivo
 
 ---
