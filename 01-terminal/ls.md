@@ -27,6 +27,8 @@ ls -la
 
 Mostra inclusive arquivos ocultos.
 
+---
+
 ```bash
 ls -i
 ```
@@ -34,12 +36,14 @@ ls -i
 Identifica o inode dos arquivos.  
 Inode é um número único para identificar arquivos de forma única.
 
+---
 
 ```bash
 ls -o
 ```
 Identico ao formato do -l, porém, não mostra a coluna de -- Grupo --
 
+---
 
 ```bash
 ls -r
